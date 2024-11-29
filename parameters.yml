@@ -1,0 +1,12 @@
+# Parameters for the Permutation Test
+core_id: -1  # The amount of physical computational cores. Use -1 for all available cores.
+main_path: ""  # Directory holding the dataset.
+dataset_name: "hello_world"  # Name of the dataset file.
+model_id: "linear"  # Model type for ANN. Options: "linear", "non-linear".
+learning_rate: 0.001  # Learning rate for the ANN.
+epochs: 1000  # Number of training epochs for the ANN.
+subsamplings: 100  # Number of subsamplings required.
+
+# Permutation Test Parameters
+shuffle_id: "block"  # Type of permutation test. Options: "block" (block of patterns), "full" (individual patterns).
+shuffle_count: 10  # Number of shuffles required for the permutation test.
