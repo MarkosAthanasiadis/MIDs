@@ -1,0 +1,27 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+filelock @ file:///croot/filelock_1700591183607/work
+foolbox==2.4.0
+gitdb==4.0.11
+GitPython==3.1.43
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645438755360/work
+idna==3.10
+Jinja2 @ file:///croot/jinja2_1730902924303/work
+joblib @ file:///croot/joblib_1718217211762/work
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1717597493534/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp39-cp39-linux_x86_64.whl#sha256=6094eeedd869502faa0fd0a8c5ad3a70c5779be06ddd1feb7627e5c212fac420
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+requests==2.32.3
+scikit-learn @ file:///croot/scikit-learn_1721921875708/work
+scipy @ file:///croot/scipy_1710947333060/work/dist/scipy-1.12.0-cp39-cp39-linux_x86_64.whl#sha256=086bc9ddf320acb93b565ce64bf36f51436fe07a0b6b7fd6a8b38159f6ab34d5
+smmap==5.0.1
+sympy @ file:///croot/sympy_1724938189289/work
+threadpoolctl @ file:///croot/threadpoolctl_1719407800858/work
+torch==2.5.1
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+urllib3==2.2.3
